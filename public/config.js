@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets",
-  "VITE_CUSTOM_MENUS": "Smart dca Bot, https://sygnai.xyz/SmartDCA",
+  "VITE_CUSTOM_MENUS": "SygnAi Dashboard, https://sygnai.xyz/Dashboard; Smart dca Bot, https://sygnai.xyz/SmartDCA",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
